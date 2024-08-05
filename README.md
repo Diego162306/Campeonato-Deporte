@@ -9,7 +9,7 @@
 <img src="https://i.pinimg.com/originals/a1/07/00/a1070006fe17a60b4115c5014f9d635d.gif" height="28px">
 </p> 
 
-## Requerimientos
+## Requerimientos 🛠️
 
 - Se puede registrar un empate 2 a 2 
 - Se puede Ingresar dos campeonatos donde este el mismo equipo con diferentes jugadores
@@ -29,6 +29,6 @@
 | Implementacion en java | ✅|
 | Ingresar dos campeonatos | ✅|
 
-## Diagarama UML
+## Diagarama UML 🎴
 
 <img src="https://raw.githubusercontent.com/Diego162306/Campeonato-Deporte/main/Cmpeonato%20futbol.jpg" >
