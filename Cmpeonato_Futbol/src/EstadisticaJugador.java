@@ -1,4 +1,4 @@
-import javax.swing.JTextArea;
+import java.io.StringWriter;
 
 public class EstadisticaJugador {
     private Jugador jugador;
@@ -31,7 +31,8 @@ public class EstadisticaJugador {
         tarjetasRojas++;
     }
 
-    public void mostrarEstadisticas(JTextArea textArea) {
+    public void mostrarEstadisticas() {
+        StringWriter textArea = new StringWriter();
         textArea.append("Estadísticas de " + jugador.getNombre() + ":\n");
         textArea.append("Goles: " + goles + "\n");
         textArea.append("Asistencias: " + asistencias + "\n");
