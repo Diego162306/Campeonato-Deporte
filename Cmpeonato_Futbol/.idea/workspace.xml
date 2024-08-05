@@ -18,9 +18,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2kAro46CV6flwZARHdObOSyX86c" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,6 +31,7 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/HP-I3/Downloads/EstructurasDeDatos-main/EstructurasDeDatos-main/EstructurasDeDatos",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -56,6 +57,8 @@
       <option name="presentableId" value="Default" />
       <updated>1722737397061</updated>
       <workItem from="1722737398080" duration="10898000" />
+      <workItem from="1722777370350" duration="2018000" />
+      <workItem from="1722814520508" duration="2891000" />
     </task>
     <servers />
   </component>
